@@ -1,6 +1,6 @@
 # CS Developer Portfolio Website
 
-![Website Screenshot](https://via.placeholder.com/800x400)
+
 
 A professional portfolio website for computer science developers to showcase their skills, projects, and experience.
 
@@ -37,30 +37,5 @@ To customize:
 ## Customization Guide
 
 1. **Personal Information**:
-   - Update name, title, and description in the hero section
-   - Add your own about me text
-   - Update contact information
-
-2. **Skills**:
-   - Modify the skills lists to reflect your expertise
-   - Add/remove skill categories as needed
-
-3. **Projects**:
-   - Replace placeholder project cards with your actual projects
-   - Include images, descriptions, and links to live demos or code
-
-4. **Styling**:
-   - Update color scheme by modifying the CSS variables at the top of `styles.css`
-   - Adjust spacing, fonts, or layouts as needed
-
-## License
-
-This project is open source and available under the MIT License.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or pull request for any improvements or bug fixes.
-
----
-
-**Note**: Replace all placeholder images with your own images for a professional look. The current images are from placeholder.com.
+ name:- Arbaj khan
+ Email:-mdehsank32@gmail.com
